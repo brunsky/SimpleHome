@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<set xmlns:android="http://schemas.android.com/apk/res/android">
+<scale 
+          android:interpolator="@android:anim/accelerate_decelerate_interpolator" 
+          android:fromXScale="1.0" 
+          android:toXScale="1.4" 
+          android:fromYScale="1.0" 
+          android:toYScale="1.4" 
+          android:pivotX="50%" 
+          android:pivotY="50%" 
+          android:fillAfter="false" 
+          android:startOffset="0" 
+          android:duration="600" /> 
+<!-- 尺寸伸縮動畫效果 scale 
+       屬性：interpolator 指定一個動畫的插入器 
+        在我試驗過程中，使用android.res.anim中的資源時候發現 
+        有三種動畫插入器: 
+            accelerate_decelerate_interpolator  加速-減速 動畫插入器 
+            accelerate_interpolator        加速-動畫插入器 
+            decelerate_interpolator        減速- 動畫插入器 
+        其他的屬於特定的動畫效果 
+      浮點型值： 
+        
+            fromXScale 屬性為動畫起始時 X座標上的伸縮尺寸   
+            toXScale   屬性為動畫結束時 X座標上的伸縮尺寸    
+       
+            fromYScale 屬性為動畫起始時Y座標上的伸縮尺寸   
+            toYScale   屬性為動畫結束時Y座標上的伸縮尺寸  
+            startOffset  屬性為從上次動畫停多少時間開始執行下個動畫 
+       
+            說明: 
+                 以上四種屬性值   
+   
+                    0.0表示收縮到沒有 
+                    1.0表示正常無伸縮    
+                    值小於1.0表示收縮 
+                    值大於1.0表示放大 
+       
+            pivotX     屬性為動畫相對於物件的X座標的開始位置 
+            pivotY     屬性為動畫相對於物件的Y座標的開始位置 
+       
+            說明: 
+                    以上兩個屬性值 從0%-100%中取值 
+                    50%為物件的X或Y方向座標上的中點位置 
+       
+        長整型值： 
+            duration  屬性為動畫持續時間 
+            說明:   時間以毫秒為單位 
+
+        布林型值: 
+            fillAfter 屬性 當設置為true ，該動畫轉化在動畫結束後被應用 
+--> 
+
+</set>

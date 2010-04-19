@@ -1,0 +1,28 @@
+8
+
+dir
+3200
+svn://192.168.1.166/Android/App/SimpleHome/res/values-land
+svn://192.168.1.166
+
+
+
+2010-03-24T03:34:44.908250Z
+3200
+kevin
+
+
+svn:special svn:externals svn:needs-lock
+
+strings.xml
+file
+
+
+
+
+2010-03-23T02:00:36.343750Z
+a2493f5b8e932f93cd808d4036a42497
+2010-03-24T03:34:44.908250Z
+3200
+kevin
+

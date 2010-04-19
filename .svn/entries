@@ -1,0 +1,103 @@
+8
+
+dir
+3199
+svn://192.168.1.166/Android/App/SimpleHome
+svn://192.168.1.166
+
+
+
+2010-03-24T03:29:00.673875Z
+3199
+kevin
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+14dcb4fb-91d8-b848-8d5f-665834ed7738
+
+default.properties
+file
+3200
+
+
+
+2010-03-23T02:09:23.390625Z
+38c55e571b5c07b175157e8005dbc45d
+2010-03-24T03:34:44.908250Z
+3200
+kevin
+
+.classpath
+file
+3200
+
+
+
+2010-03-23T02:09:23.390625Z
+0737b3e3260db622bdc587494a4d892b
+2010-03-24T03:34:44.908250Z
+3200
+kevin
+
+NOTICE
+file
+3200
+
+
+
+2010-03-23T02:00:37.125000Z
+9645f39e9db895a4aa6e02cb57294595
+2010-03-24T03:34:44.908250Z
+3200
+kevin
+
+assets
+dir
+
+.project
+file
+3200
+
+
+
+2010-03-23T02:00:37.156250Z
+929b2aafe62a38ea557a1716dbf5e3c1
+2010-03-24T03:34:44.908250Z
+3200
+kevin
+
+AndroidManifest.xml
+file
+3214
+
+
+
+2010-03-30T10:06:21.656250Z
+f5447b34d7ff30cfd344e9795da6a2a0
+2010-03-30T10:11:57.793750Z
+3214
+kevin
+
+src
+dir
+
+bin
+dir
+
+gen
+dir
+
+res
+dir
+

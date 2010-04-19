@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Copyright (C) 2007 The Android Open Source Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+  
+          http://www.apache.org/licenses/LICENSE-2.0
+  
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+    
+2010/03/29
+修改
+sortapps中的順序將taskmanager 與 gbook對換
+
+2010/03/26
+修改
+sortapps中的gmail及gbook packagename
+由凱太提供改為自已設計
+-->
+
+<resources>
+    <!-- Home -->
+    <string name="home_title">Home Sample</string>
+    
+
+    <!-- Home Menus -->
+    <string name="menu_wallpaper">Wallpaper</string>
+   
+    <string name="menu_settings">Settings</string>
+
+    <!-- Wallpaper -->
+    <string name="wallpaper_instructions">Tap picture to set portrait wallpaper</string>
+	<string name="info_input_keyword">Please input keyword</string>
+<string name="link_camangimarket">http://www.camangimarket.com/ws/</string>
+<string-array name="defapps"><item>com.camangi.weather</item>
+<item>com.android.email</item>
+<item>com.android.music</item>
+<item>com.android.browser</item>
+<item>com.android.settings</item>
+</string-array>
+
+<string-array name="sortapps"><item>com.camangi.linkgmail</item>
+<item>com.android.camera</item>
+<item>com.android.camera</item>
+<item>com.android.camera</item>
+<item>com.fring</item>
+<item>com.camangi.linkgbook</item>
+<item>com.aldiko.android</item>
+<item>com.camangi.android.TGMDialer</item>
+<item>com.android.alarmclock</item>
+<item>com.android.calendar</item>
+<item>com.camangi.apkinstaller</item>
+<item>com.camangi.android.taskmanager</item>
+<item>com.android.calculator2</item>
+<item>com.android.spare_parts</item>
+</string-array>
+<string name="package_taskmanager">com.camangi.android.taskmanager</string>
+<string name="intent_taskservice">com.camangi.android.taskmanager.START_SERVICE</string>
+<string name="package_weather">com.camangi.weather</string>
+<string name="package_email">com.android.email</string>
+<string name="package_music">com.android.music</string>
+<string name="package_browser">com.android.browser</string>
+<string name="package_settings">com.android.settings</string>
+
+<string name="pick_wallpaper">Wallpaper gallery</string>
+</resources>
+

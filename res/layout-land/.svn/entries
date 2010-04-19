@@ -1,0 +1,52 @@
+8
+
+dir
+3200
+svn://192.168.1.166/Android/App/SimpleHome/res/layout-land
+svn://192.168.1.166
+
+
+
+2010-03-24T03:34:44.908250Z
+3200
+kevin
+
+
+svn:special svn:externals svn:needs-lock
+
+home.xml
+file
+
+
+
+
+2010-03-23T02:00:36.109375Z
+07f056bfc672e9e1a903994524d4a94b
+2010-03-24T03:34:44.908250Z
+3200
+kevin
+
+home1.xml
+file
+3214
+
+
+
+2010-03-29T06:14:57.326934Z
+d69e8bc8e1aa6a7f4ecebed843844400
+2010-03-30T10:11:57.793750Z
+3214
+kevin
+
+home2.xml
+file
+3216
+
+
+
+2010-03-30T06:43:18.234375Z
+4cbcc4560e54f5e38cd70c52697e2bb4
+2010-03-30T10:12:58.043750Z
+3216
+kevin
+

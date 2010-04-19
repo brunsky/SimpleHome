@@ -1,0 +1,64 @@
+8
+
+dir
+3200
+svn://192.168.1.166/Android/App/SimpleHome/res/values
+svn://192.168.1.166
+
+
+
+2010-03-24T03:34:44.908250Z
+3200
+kevin
+
+
+svn:special svn:externals svn:needs-lock
+
+colors.xml
+file
+
+
+
+
+2010-03-23T02:00:33.828125Z
+2ce640a93737e4973b0d17dbf1324823
+2010-03-24T03:34:44.908250Z
+3200
+kevin
+
+styles.xml
+file
+
+
+
+
+2010-03-23T02:00:33.828125Z
+a42fa0ffe78af24f6976557ef4721430
+2010-03-24T03:34:44.908250Z
+3200
+kevin
+
+strings.xml
+file
+3214
+
+
+
+2010-03-29T01:40:06.655059Z
+44347ec39c2405318193a41b7b8b7543
+2010-03-30T10:11:57.793750Z
+3214
+kevin
+
+attrs.xml
+file
+
+
+
+
+2010-03-23T02:00:33.843750Z
+b629e493bed60bdf71d25e597eb993f4
+2010-03-24T03:34:44.908250Z
+3200
+kevin
+

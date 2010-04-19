@@ -1,0 +1,100 @@
+8
+
+dir
+3200
+svn://192.168.1.166/Android/App/SimpleHome/res
+svn://192.168.1.166
+
+
+
+2010-03-24T03:34:44.908250Z
+3200
+kevin
+
+
+svn:special svn:externals svn:needs-lock
+
+values-fr-land
+dir
+
+values-es-land
+dir
+
+drawable
+dir
+
+anim
+dir
+
+values-de
+dir
+
+values-es-rUS-land
+dir
+
+values-ja
+dir
+
+values-zh-rTW
+dir
+
+layout-land
+dir
+
+values-de-rDE
+dir
+
+drawable-land
+dir
+
+values-zh-rCN
+dir
+
+values-nl-rNL
+dir
+
+values-en
+dir
+
+values
+dir
+
+layout-port
+dir
+
+values-de-land
+dir
+
+values-cs
+dir
+
+drawable-port
+dir
+
+values-ja-land
+dir
+
+values-es
+dir
+
+values-fr
+dir
+
+values-zh-rTW-land
+dir
+
+values-zh-rCN-land
+dir
+
+values-es-rUS
+dir
+
+values-land
+dir
+
+layout
+dir
+
+color
+dir
+

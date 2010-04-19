@@ -1,0 +1,19 @@
+8
+
+dir
+3200
+svn://192.168.1.166/Android/App/SimpleHome/src
+svn://192.168.1.166
+
+
+
+2010-03-24T03:34:44.908250Z
+3200
+kevin
+
+
+svn:special svn:externals svn:needs-lock
+
+com
+dir
+
