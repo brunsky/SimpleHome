@@ -18,6 +18,10 @@
 */
 -->
 <!-- 
+2010/04/19
+修改
+android:screenOrientation 由portrait 改為 landscape
+
 2010/03/26
 新增
 桌布集
@@ -33,7 +37,7 @@ by kevin
      own application, the package name must be changed from "com.example.*"
      to come from a domain that you own or have control over. -->
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-		package="com.camangi.home" android:versionName="2.4" android:versionCode="15">
+		package="com.camangi.home" android:versionName="2.5" android:versionCode="16">
     <uses-permission android:name="android.permission.CALL_PHONE"/>
     <uses-permission android:name="android.permission.GET_TASKS"/>
     <uses-permission android:name="android.permission.READ_CONTACTS"/>
@@ -45,8 +49,8 @@ by kevin
           android:label="@string/home_title"          
           android:icon="@drawable/ic_launcher_home">
 
-        <activity android:name="HomeSample"
-        android:screenOrientation="portrait"
+        <activity android:name="Home"       
+        android:screenOrientation="landscape"
                 android:theme="@style/Theme"
                 android:launchMode="singleInstance"
                 android:stateNotNeeded="true">

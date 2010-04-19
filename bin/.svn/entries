@@ -14,6 +14,48 @@ kevin
 
 svn:special svn:externals svn:needs-lock
 
+resources.ap_
+file
+0
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+classes.dex
+file
+0
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+SimpleHome.apk
+file
+0
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
 com
 dir
 

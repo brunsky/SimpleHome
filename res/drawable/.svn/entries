@@ -414,6 +414,20 @@ file
 kevin
 has-props
 
+music_play.png
+file
+0
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
 btn_left_yellow_o.png
 file
 
@@ -478,6 +492,20 @@ file
 3215
 kevin
 has-props
+
+vinylblue.png
+file
+0
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
 
 right.png
 file
@@ -685,6 +713,20 @@ e46972a12c11da21506d73ffa3cfeaaf
 3200
 kevin
 has-props
+
+music_title_bg.png
+file
+0
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
 
 appbg.png
 file
@@ -1101,6 +1143,20 @@ eee72a4470ec6cd40cb09f3b957d2aab
 kevin
 has-props
 
+music_control_bg.png
+file
+0
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
 all_applications_background.xml
 file
 
@@ -1331,6 +1387,34 @@ file
 3215
 kevin
 has-props
+
+music_img.png
+file
+0
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+music_pause.png
+file
+0
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
 
 wallpaper_lake.jpg
 file
