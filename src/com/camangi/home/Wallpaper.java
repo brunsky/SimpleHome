@@ -179,7 +179,7 @@ public class Wallpaper extends Activity implements
         */
         final ImageView viewbg = mImageBg;
         Bitmap b = BitmapFactory.decodeResource(getResources(), mImages.get(position), mOptions);
-        viewbg.setImageBitmap(b);
+        //viewbg.setImageBitmap(b);
         // Help the GC
         if (mBitmap != null) {
             mBitmap.recycle();

@@ -64,7 +64,7 @@ by kevin
 		<!-- Wallpaper show set wallpaper -->
 		
 		
-        <activity android:name="Wallpaper"
+        <activity android:name="Wallpaper"  android:screenOrientation="landscape"
                 android:label="@string/pick_wallpaper"
                 android:icon="@drawable/ic_launcher_gallery">
             <intent-filter>
